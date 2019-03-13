@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-family: helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+
+
+
+h6 {
+	font-family: helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
